@@ -4,3 +4,7 @@ title: "My Website"
 ---
 
 Hello, Website!
+
+For more information, see <http://furbeck.github.io/cv.pdf>.
+
+For slides, see <http://furbeck.github.io/Slides2.html>.
